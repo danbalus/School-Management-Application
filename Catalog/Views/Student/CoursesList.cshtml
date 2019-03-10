@@ -1,0 +1,54 @@
+﻿
+@using Catalog.Models
+@using Microsoft.AspNet.Identity;
+
+@model List<Course>
+@{
+    ViewBag.Title = "Enrollment to Course";
+
+}
+<h2>Add Courses</h2>
+<h4>All Courses</h4>
+<table class="table ">
+    @*table-bordered table-*@
+    <thead>
+        <tr>
+            <th>
+                Course Name
+            </th>
+            <th>
+                Actions
+            </th>
+        </tr>
+    </thead>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title@*item.CourseID*@)
+            </td>
+            <td>
+
+                @{
+                    ApplicationDbContext db = new ApplicationDbContext();
+                    var idUser = HttpContext.Current.User.Identity.GetUserId();
+                    int idStudent = (from stud in db.Students
+                                     where stud.ApplicationUser.Id == idUser
+                                     select stud).ToList().First().StudentID/*.ApplicationUser.Id*/;
+                }
+                @if (db.Enrollments.SingleOrDefault(b => b.StudentID == idStudent && b.CourseID == item.CourseID) == null)
+                {
+                    @Html.ActionLink("Enroll Course", "EnrollmentAdd", new { idCourse = item.CourseID, idUser })
+
+                }
+
+                @if (db.Enrollments.SingleOrDefault(b => b.StudentID == idStudent && b.CourseID == item.CourseID) != null)
+                {
+                    @Html.ActionLink(" Unenrol Course", "EnrollmentDelete", new { idCourse = item.CourseID, idUser })
+                }
+
+            </td>
+        </tr>
+    }
+
+</table>

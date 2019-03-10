@@ -1,0 +1,78 @@
+﻿
+@using Catalog.Models
+@using Microsoft.AspNet.Identity;
+
+@model List<Tuple<Student, Student>>
+@{
+    ViewBag.Title = "Game Schedule";
+
+}
+
+<table class="table ">
+    @*table-bordered table-*@
+    <thead>
+        <tr>
+            <th>
+                Nr.
+            </th>
+            <th>
+                Student 1 First Name
+            </th>
+            <th>
+                Student 1 Last Name
+            </th>
+            <th>
+                Seed 1
+            </th>
+            <th>
+                ||
+            </th>
+            <th>
+                Student 2 First Name
+            </th>
+            <th>
+                Student 2 Last Name
+            </th>
+            <th>
+                Seed 2
+            </th>
+        </tr>
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        
+            int matchNr  = Model.IndexOf(item) + 1;
+        
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => matchNr@*item.CourseID*@)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item1.FirstMidName@*item.CourseID*@)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item1.LastName@*item.CourseID*@)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item1.Seed@*item.CourseID*@)
+            </td>
+            <td>
+                @{
+                    var x = "||";
+                }
+                @Html.DisplayFor(modelItem => x)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item2.FirstMidName@*item.CourseID*@)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item2.LastName@*item.CourseID*@)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Item2.Seed@*item.CourseID*@)
+            </td>
+        </tr>
+    }
+
+</table>

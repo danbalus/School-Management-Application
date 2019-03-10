@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Catalog.Models.Professor>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>@*Index*@Professors</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+    <table class="table ">
+        @*table-bordered table-*@
+        <thead>
+            <tr>
+                <th>
+                    @*style="border-color:black"*@
+                    @Html.ActionLink("Last Name", "Index", new { sortOrder = ViewBag.NameSortParm })
+                </th>
+                <th>
+                    First Name
+                </th>
+                <th>
+                    Actions
+                </th>
+            </tr>
+        </thead>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.LastName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.FirstMidName)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.ProfessorID }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.ProfessorID }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.ProfessorID })
+                    </td>
+                </tr>
+            }
+
+    </table>

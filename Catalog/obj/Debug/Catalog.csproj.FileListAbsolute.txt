@@ -1,0 +1,258 @@
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.IO.Compression.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\VBCSCompiler.exe
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._1.resources
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.GenerateResource.cache
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\ApplicationInsights.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Catalog.dll.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Catalog.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Catalog.pdb
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csc.exe
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csc.exe.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csc.rsp
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csi.exe
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csi.exe.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\csi.rsp
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.AppContext.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Console.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Claims.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Threading.Thread.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.ValueTuple.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\vbc.exe
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\vbc.exe.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\vbc.rsp
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Antlr3.Runtime.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\EntityFramework.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\EntityFramework.SqlServer.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.Web.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Newtonsoft.Json.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Owin.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\SendGrid.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Helpers.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Mvc.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Optimization.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Razor.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Razor.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\WebGrease.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\SendGrid.pdb
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\SendGrid.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Helpers.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Mvc.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Optimization.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.Razor.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Razor.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Newtonsoft.Json.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Antlr3.Runtime.pdb
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\EntityFramework.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\EntityFramework.SqlServer.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.AI.Web.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.CopyComplete
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.pdb
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.csprojAssemblyReference.cache
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._2.resources
+C:\Users\dan.balus\source\repos\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._3.resources
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\ApplicationInsights.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Catalog.dll.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Catalog.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Catalog.pdb
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csc.exe
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csc.exe.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csc.rsp
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csi.exe
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csi.exe.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\csi.rsp
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.AppContext.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Collections.Immutable.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Console.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.Process.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.IO.Compression.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.IO.Pipes.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Reflection.Metadata.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.AccessControl.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Claims.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Threading.Thread.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.ValueTuple.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XPath.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\vbc.exe
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\vbc.exe.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\vbc.rsp
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\VBCSCompiler.exe
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\roslyn\VBCSCompiler.exe.config
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Antlr3.Runtime.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\EntityFramework.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\EntityFramework.SqlServer.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.DependencyCollector.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.Web.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.WindowsServer.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.ApplicationInsights.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Google.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Web.Infrastructure.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Newtonsoft.Json.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Owin.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\SendGrid.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Helpers.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Mvc.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Optimization.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Razor.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Deployment.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Razor.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\WebGrease.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\SendGrid.pdb
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\SendGrid.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Helpers.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Mvc.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Optimization.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.Razor.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Deployment.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Web.WebPages.Razor.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Newtonsoft.Json.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Antlr3.Runtime.pdb
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\EntityFramework.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\EntityFramework.SqlServer.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Google.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.DependencyCollector.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.WindowsServer.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.AI.Web.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.csprojAssemblyReference.cache
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._1.resources
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._2.resources
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.Migrations._3.resources
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.GenerateResource.cache
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.csproj.CopyComplete
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.dll
+D:\Catalog Tecknoworks\Catalog\Catalog\Catalog\obj\Debug\Catalog.pdb

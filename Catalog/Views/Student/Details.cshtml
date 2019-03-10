@@ -1,0 +1,106 @@
+﻿@model Catalog.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstMidName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstMidName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EnrollmentDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EnrollmentDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Enrollments)
+        </dt>
+        <dd>
+            <table class="table">
+                <tr>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <th>Enrollment ID</th>
+                    }
+                    <th>Course ID</th>
+                    <th>Course Title</th>
+                    <th>Grade</th>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <th>Edit</th>
+                    }
+                </tr>
+                @foreach (var item in Model.Enrollments)
+                {
+                    <tr>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <td>
+                                @Html.DisplayFor(modelItem => item.EnrollmentID)
+                            </td>
+                        }
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Course.CourseID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Course.Title)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Grade)
+                        </td>
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <td>
+                                @Html.ActionLink("Add Grade", "AddGrade", new { idCourse = item.CourseID, idStudent = item.StudentID, grade = (item.Grade == null) ? Catalog.Models.Grade.F : item.Grade })
+                            </td>
+                        }
+                    </tr>
+
+                }
+            </table>
+        </dd>
+    </dl>
+</div>
+@if (User.IsInRole("Admin"))
+{
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.StudentID }) |
+        @*@Html.ActionLink("Add Grade", "AddGrade"@*, new { idCourse = 1050, idStudent = 1 } @*Model.Enrollments}, new { enrollment = Model.Enrollments.First().EnrollmentID}) |*@
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+}
+else
+{
+    @Html.ActionLink("Back to Home", "Index", "Home")
+
+    //@Html.ActionLink(" | Upload File", "EnrollmentUpload"@*, new { idCourse = item.CourseID, idUser }*@)
+    using (Html.BeginForm("EnrollmentUpload", "Student", new { idStudent = Model.StudentID }, FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <p>
+            Upload file:
+        </p>
+        <input type="file" name="file" />
+        <input type="submit" value="OK" />
+    }
+}
